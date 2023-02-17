@@ -7,7 +7,7 @@ import (
 // Magical timestamps for communicating with server
 const (
 	StrongTimestamp     uint64 = 0
-	EventuallyTimestamp uint64 = 1
+	EventuallyTimestamp uint64 = 3
 	BoundedTimestamp    uint64 = 2
 )
 
